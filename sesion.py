@@ -20,3 +20,4 @@ while option != 3:
                     print("Contraseña invalida")
             if i + 1 == len(Users) and validator == False:
                 print("El usuario ingresado no existe, debe registrarse")
+print("Adios")
